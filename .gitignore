@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+
+# Python distribution/build
+build/
+dist/
+*.egg-info/
+
+# Node dependencies
+front/node_modules/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Frontend build outputs
+front/build/
+front/.parcel-cache/
+
+# IDE/editor specific
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
